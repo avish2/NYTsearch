@@ -1,0 +1,21 @@
+div.page-header.text-center {
+	background-color: #2f2e65;
+	margin-top: 0px;
+	padding: 25px;
+    border-radius: 4px;
+}
+.h1, h1 {
+	margin-top: 0px;
+	color: white;
+}
+div.container-fluid {
+	margin-right: 100px;
+	margin-left: 100px;
+}
+.panel-primary>.panel-heading {
+	background-color: black;
+	border-color: black;
+}
+.panel-primary {
+	border-color: black;
+}
